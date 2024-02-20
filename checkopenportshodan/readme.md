@@ -6,6 +6,9 @@ The ShodanQuery Alfred Workflow integrates the Shodan Internet Database with Alf
 
 ![screanshoot](https://github.com/jaroslavmraz/alfred/blob/main/checkopenportshodan/screanshot.png)
 
+##iOS version
+[V1]:https://www.icloud.com/shortcuts/c5ba75bd83df4537bc6a64e305826614
+
 ## Features
 
 - **Direct Query Execution**: Perform searches on the Shodan database using Alfred's input interface for both general overviews and specific device information.
