@@ -4,6 +4,8 @@
 
 The ShodanQuery Alfred Workflow integrates the Shodan Internet Database with Alfred, enabling efficient querying of internet-connected devices directly from the macOS desktop environment. This tool is designed for professionals in cybersecurity, network administration, and technology research, facilitating rapid access to device information, security vulnerabilities, and network configurations.
 
+![screanshoot](https://github.com/jaroslavmraz/alfred/blob/main/checkopenportshodan/screanshot.png)
+
 ## Features
 
 - **Direct Query Execution**: Perform searches on the Shodan database using Alfred's input interface for both general overviews and specific device information.
